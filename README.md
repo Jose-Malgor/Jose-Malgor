@@ -9,3 +9,9 @@ Let's keep learning together! 💪
 
 Contact me through 
 - [LinkedIn](www.linkedin.com/in/malgor-josé)
+
+
+## Languages and tools:
+•Javascript •Git •React •Redux •HTML •CSS •NodeJs •Express •Postman •PostgreSQL •Sequelize •MongoDB •Mongoose
+
+
