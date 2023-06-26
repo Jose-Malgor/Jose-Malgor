@@ -6,3 +6,6 @@ I thoroughly enjoy working in teams and collaborating to create exceptional solu
 I have hands-on experience with various technologies, including React-Redux, Styled Components, CSS Modules, Node.js, Express, PostgreSQL, and MongoDB. 
 As I continue to explore this fascinating realm of technology, I am eager to expand my knowledge and skills further. 
 Let's keep learning together! 💪
+
+Contact me through 
+www.linkedin.com/in/malgor-josé
