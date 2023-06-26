@@ -8,4 +8,4 @@ As I continue to explore this fascinating realm of technology, I am eager to exp
 Let's keep learning together! 💪
 
 Contact me through 
-www.linkedin.com/in/malgor-josé
+- [LinkedIn](www.linkedin.com/in/malgor-josé)
